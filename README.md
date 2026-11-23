@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<img width="1024" height="600" alt="404620347772240312" src="https://github.com/user-attachments/assets/306f0e4a-d722-4f9c-9512-05b5abfc27d3" />
 
 <!--
 **E-Zian/E-Zian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
